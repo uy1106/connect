@@ -1,0 +1,1 @@
+FROM dockersamples/static-site
